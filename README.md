@@ -21,7 +21,7 @@ Automated script to export all configurations in a SOLIDWORKS Part file as STEP 
 
 ## How to Use
 1. Open SOLIDWORKS with your part file
-2. Run the VBScript file
+2. Open the .swp file and Run the file
 3. All configurations will be exported automatically
 
 ## Contact
