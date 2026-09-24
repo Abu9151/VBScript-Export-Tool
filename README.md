@@ -1,4 +1,4 @@
-# VBScript Export Tool
+# VBA Export Tool
 
 ## Overview
 Automated script to export all configurations in a SOLIDWORKS Part file as STEP and IGES formats, eliminating manual export processes.
