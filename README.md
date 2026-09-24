@@ -10,7 +10,7 @@ Automated script to export all configurations in a SOLIDWORKS Part file as STEP 
 - Compatible with SOLIDWORKS 
 
 ## Technologies Used
-- VBScript
+- VBA
 - SOLIDWORKS API
 - File management automation
 
